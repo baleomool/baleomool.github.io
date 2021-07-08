@@ -40,27 +40,6 @@
       "image_url":"file:///android_asset/more.png",
       "video_url":"v2",
       "voice_url":"v2.mp3"
-    },
-    {
-      "id":3,
-      "name":"NBA YoungBoy 3",
-      "image_url":"file:///android_asset/more.png",
-      "video_url":"v3",
-      "voice_url":"v3.mp3"
-    },
-    {
-      "id":4,
-      "name":"NBA YoungBoy 4",
-      "image_url":"file:///android_asset/more.png",
-      "video_url":"v4",
-      "voice_url":"v2.mp3"
-    },
-    {
-      "id":5,
-      "name":"NBA YoungBoy 5",
-      "image_url":"file:///android_asset/more.png",
-      "video_url":"v5",
-      "voice_url":"v3.mp3"
     }
   ]
 }
