@@ -67,32 +67,11 @@
       "voice_url": "05.mp3"
     },
     {
-      "id": 7,
-      "name": "Bapak",
-      "image_url": "file:///android_asset/06.jpg",
-      "video_url": "v06",
-      "voice_url": "06.mp3"
-    },
-    {
       "id": 8,
       "name": "Aurelie",
       "image_url": "file:///android_asset/07.jpg",
       "video_url": "v07",
       "voice_url": "07.mp3"
-    },
-    {
-      "id": 9,
-      "name": "Mertua",
-      "image_url": "file:///android_asset/08.jpg",
-      "video_url": "v08",
-      "voice_url": "08.mp3"
-    },
-    {
-      "id": 10,
-      "name": "Ayah",
-      "image_url": "file:///android_asset/09.jpg",
-      "video_url": "v09",
-      "voice_url": "09.mp3"
     },
     {
       "id": 11,
