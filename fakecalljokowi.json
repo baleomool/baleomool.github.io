@@ -26,21 +26,21 @@
   "Item": [
     {
       "id": 1,
-      "name": "Cantik",
+      "name": "Joko",
       "image_url": "file:///android_asset/00.jpg",
       "video_url": "v00",
       "voice_url": "00.mp3"
     },
     {
       "id": 2,
-      "name": "Aisya",
+      "name": "Widodo",
       "image_url": "file:///android_asset/01.jpg",
       "video_url": "v01",
       "voice_url": "01.mp3"
     },
     {
       "id": 3,
-      "name": "Desy",
+      "name": "Jokowi",
       "image_url": "file:///android_asset/02.jpg",
       "video_url": "v02",
       "voice_url": "02.mp3"
