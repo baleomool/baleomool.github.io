@@ -27,21 +27,21 @@
     {
       "id": 1,
       "name": "Lil Nas X 00",
-      "image_url": "file:///android_asset/v00.jpg",
+      "image_url": "file:///android_asset/v00.png",
       "video_url": "v00",
       "voice_url": "v00.mp3"
     },
     {
       "id": 2,
       "name": "Lil Nas X 01",
-      "image_url": "file:///android_asset/v01.jpg",
+      "image_url": "file:///android_asset/v01.png",
       "video_url": "v01",
       "voice_url": "v01.mp3"
     },
     {
       "id": 3,
       "name": "Lil Nas X 02",
-      "image_url": "file:///android_asset/v02.jpg",
+      "image_url": "file:///android_asset/v02.png",
       "video_url": "v02",
       "voice_url": "v02.mp3"
     }
