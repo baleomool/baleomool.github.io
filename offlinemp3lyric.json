@@ -1,0 +1,25 @@
+{
+   "ONLINE_MP3":[
+      {
+         "package_name":"com.vpapps.onlinemp3",
+         "app_name":"Online MP3 App",
+         "app_logo":"Webp.net-resizeimage.png",
+         "app_description":"<p>test</p>",
+         "app_version":"1.0.0",
+         "app_author":"Viavi Webtech",
+         "app_contact":"+91 9227777522",
+         "app_email":"info@viaviweb.com",
+         "app_website":"www.viaviweb.com",
+         "app_privacy_policy":"",
+         "app_developed_by":"",
+         "banner_ad_id":"ca-app-pub-3940256099942544/6300978111",
+         "interstital_ad_id":"ca-app-pub-3940256099942544/1033173712",
+         "banner_ad":"true",
+         "interstital_ad":"true",
+         "publisher_id":"ca-app-pub-3940256099942544~3347511713",
+         "interstital_ad_click":"1",
+         "song_download":"true",
+         "package_name":"com.changeme.songartist"
+      }
+   ]
+}
