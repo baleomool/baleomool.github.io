@@ -1,7 +1,7 @@
 {
    "ONLINE_MP3":[
       {
-         "package_name":"com.changeme.songartist"
+         "package_name":"com.changeme.songartist",
          "app_name":"Online MP3 App",
          "app_logo":"Webp.net-resizeimage.png",
          "app_description":"<p>test</p>",
