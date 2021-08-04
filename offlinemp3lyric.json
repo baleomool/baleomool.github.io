@@ -1,7 +1,7 @@
 {
    "ONLINE_MP3":[
       {
-         "package_name":"com.vpapps.onlinemp3",
+         "package_name":"com.changeme.songartist"
          "app_name":"Online MP3 App",
          "app_logo":"Webp.net-resizeimage.png",
          "app_description":"<p>test</p>",
@@ -18,8 +18,7 @@
          "interstital_ad":"true",
          "publisher_id":"ca-app-pub-3940256099942544~3347511713",
          "interstital_ad_click":"1",
-         "song_download":"true",
-         "package_name":"com.changeme.songartist"
+         "song_download":"true"
       }
    ]
 }
