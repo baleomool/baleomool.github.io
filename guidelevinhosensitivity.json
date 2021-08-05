@@ -40,10 +40,17 @@
       {
          "id":1,
          "name_category":"Levinho",
-         "title":"Levinho Sensitivity Settings",
+         "title":"Control Setup",
          "image":"https://1.bp.blogspot.com/-E4wpSDd6Ys4/XmDRs4EFnzI/AAAAAAAADys/NOPoaZ4S4K0-jfJQzlxHLEBr-VPC0LgSgCNcBGAsYHQ/s640/basic.jpg",
          "description":"...",
-         "link":"<img src=\"https://1.bp.blogspot.com/-E4wpSDd6Ys4/XmDRs4EFnzI/AAAAAAAADys/NOPoaZ4S4K0-jfJQzlxHLEBr-VPC0LgSgCNcBGAsYHQ/s640/basic.jpg\" />"
+         "link":"<p>Levinho is a four-finger claw player and plays on an iPhone XS Max. He uses the &apos;always-on&apos; gyro settings to move his crosshair and knock down enemies.<br><br>Levinho&apos;s PUBG Mobile setup looks like this:</p><img src=\"https://staticg.sportskeeda.com/editor/2020/08/7d758-15988547132362-800.jpg\" />"
+      },{
+         "id":2,
+         "name_category":"Levinho",
+         "title":"Camera Sensitivity",
+         "image":"https://1.bp.blogspot.com/-E4wpSDd6Ys4/XmDRs4EFnzI/AAAAAAAADys/NOPoaZ4S4K0-jfJQzlxHLEBr-VPC0LgSgCNcBGAsYHQ/s640/basic.jpg",
+         "description":"...",
+         "link":"<p>3rd Person Camera (Free Look): 198%<br>Camera (Free Look): 132%<br>1st Person Camera (Free Look): 300%<br>3rd Person No Scope: 300%<br>1st Person No Scope: 300%<br>Red Dot, Holographic, Aim Assist: 60%<br>2x Scope: 36%<br>3x Scope: 22%<br>4x Scope: 17%<br>6x Scope: 8%<br>8x Scope: 8%</p>"
       }
    ]
 }
