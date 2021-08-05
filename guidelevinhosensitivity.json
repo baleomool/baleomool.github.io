@@ -2,7 +2,7 @@
    "Ads":[
       {
          "select_ads":"ADMOB",
-         "select_backup_ads":"STARTAPP",
+         "select_backup_ads":"APPLOVIN",
          "backup_mode":"0",
          "status_app":"0",
          "link_redirect":"https://",
@@ -24,7 +24,7 @@
    "More":[
       {
          "id":1,
-         "title":"More",
+         "title":"Check This Out!",
          "image":"https://1.bp.blogspot.com/-ANYJ3lo9hMo/XWo5kJoQXgI/AAAAAAAAAqo/25dUM8NQFocMXLAnbw19MkWdsHxG6TuZQCLcBGAs/s320/EAA8F27A-73E1-4C4E-8A96-3FBD306CBD47.jpeg",
          "link":"https://play.google.com/store/apps/developer?id=CHANGEME"
       }
