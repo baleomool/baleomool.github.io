@@ -29,6 +29,10 @@
       {
          "menu":"Cara 1",
          "menuurl":"<h1>TEST</h1><p>TEST</p>"
+      },
+      {
+         "menu":"Cara 2",
+         "menuurl":"https://archive.org/download/ishishish/0x0%20Start%20The%20Game.mp4"
       }
    ]
 }
