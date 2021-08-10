@@ -28,31 +28,38 @@
    "lismenu":[
       {
          "menu":"Video 1",
-         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Advanced%20Mode-converted.mp4"
+         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Advanced%20Mode-converted.mp4",
+         "desc":"Desc 1"
       },
       {
          "menu":"Video 2",
-         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Hip%20Fire-converted.mp4"
+         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Hip%20Fire-converted.mp4",
+         "desc":"Desc 2"
       },
       {
          "menu":"Video 3",
-         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Practice%20Mode-converted.mp4"
+         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Practice%20Mode-converted.mp4",
+         "desc":"Desc 3"
       },
       {
          "menu":"VIdeo 4",
-         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Recoil%20Control-converted.mp4"
+         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Recoil%20Control-converted.mp4",
+         "desc":"Desc 4"
       },
       {
          "menu":"VIdeo 5",
-         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Pre%20Aim-converted.mp4"
+         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Pre%20Aim-converted.mp4",
+         "desc":"Desc 5"
       },
       {
          "menu":"VIdeo 6",
-         "menuurl":"https://archive.org/download/codgcodgcodg/AK117%20Aim-converted.mp4"
+         "menuurl":"https://archive.org/download/codgcodgcodg/AK117%20Aim-converted.mp4",
+         "desc":"Desc 6"
       },
       {
          "menu":"VIdeo 7",
-         "menuurl":"https://archive.org/download/codgcodgcodg/Sniper%20Aim-converted.mp4"
+         "menuurl":"https://archive.org/download/codgcodgcodg/Sniper%20Aim-converted.mp4",
+         "desc":"Desc 7"
       }
    ]
 }
