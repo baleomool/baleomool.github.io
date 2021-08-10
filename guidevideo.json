@@ -27,15 +27,31 @@
    ],
    "lismenu":[
       {
-         "menu":"Cara 1",
-         "menuurl":"<h1>TEST</h1><p>TEST</p>"
+         "menu":"Video 1",
+         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Advanced%20Mode-converted.mp4"
       },
       {
-         "menu":"Cara 2",
-         "menuurl":"https://archive.org/download/ishishish/0x0%20Start%20The%20Game.mp4"
+         "menu":"Video 2",
+         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Hip%20Fire-converted.mp4"
       },
       {
-         "menu":"Cara 3",
+         "menu":"Video 3",
+         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Practice%20Mode-converted.mp4"
+      },
+      {
+         "menu":"VIdeo 4",
+         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Recoil%20Control-converted.mp4"
+      },
+      {
+         "menu":"VIdeo 5",
+         "menuurl":"https://archive.org/download/codgcodgcodg/How%20to%20Aim%20~%20Pre%20Aim-converted.mp4"
+      },
+      {
+         "menu":"VIdeo 6",
+         "menuurl":"https://archive.org/download/codgcodgcodg/AK117%20Aim-converted.mp4"
+      },
+      {
+         "menu":"VIdeo 7",
          "menuurl":"https://archive.org/download/codgcodgcodg/Sniper%20Aim-converted.mp4"
       }
    ]
